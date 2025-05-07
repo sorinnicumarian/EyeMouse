@@ -9,6 +9,15 @@ Eyemouse is a computer vision-based Python application that tracks a user's head
 - Real-time head angle estimation (horizontal tilt)
 - Visual angle overlay and landmark rendering
 
+## Example Output
+
+Below is an example of what the interface looks like while tracking:
+
+![Eyemouse Example Output](https://github.com/sorinnicumarian/EyeMouse/blob/main/Demo%20Screenshot.png)
+
+The angle in degrees is displayed in real-time along with facial landmarks.
+
+
 ## Requirements
 
 - Python 3.x
@@ -31,14 +40,6 @@ python eyemouse.py
 ```
 
 Press **Q** to quit the application.
-
-## Example Output
-
-Below is an example of what the interface looks like while tracking:
-
-![Eyemouse Example Output](https://github.com/sorinnicumarian/EyeMouse/blob/main/Demo%20Screenshot.png)
-
-The angle in degrees is displayed in real-time along with facial landmarks.
 
 ## Future Improvements
 
